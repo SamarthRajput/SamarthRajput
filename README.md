@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Rajput</h1>
 <h3 align="center">A passionate frontend and software developer from India</h3>
 
-<img aling="left" alt="Coding" width="1000" src="[https://camo.githubusercontent.com/74b1705aa2dafc4ce3d68a181769b79d28eb347c4aa8946e2997a2908a29281f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)" alt="">
+<img aling="left" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthrajput&label=Profile%20views&color=0e75b6&style=flat" alt="samarthrajput" /> </p>
 
